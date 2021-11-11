@@ -24,4 +24,4 @@
 
 
 ## If we had more time/money/energy what we would do?
-`![This is a video about Hathaway hathing a heart.](./Hathaway2.mp4)`
+![This is a video about Hathaway hathing a heart.](./Hathaway2.mp4)
