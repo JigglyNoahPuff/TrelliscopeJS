@@ -24,4 +24,4 @@
 
 
 ## If we had more time/money/energy what we would do?
-![alt text](./jigglybuff.png)
+![This is a buff Jigglypuff!](./jigglaybuff.png)
