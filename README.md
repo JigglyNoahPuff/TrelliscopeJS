@@ -17,6 +17,6 @@
 ### CSVs and Data/Images used
 
 ## Actual R/TrelliscopeJS Stuff
-### Maybe Explain the Examples from Him &trade; that gave us inspiration
+### Maybe Explain the Examples from him that gave us inspiration &trade;
 ### Street View
 ### Cats Dogs
