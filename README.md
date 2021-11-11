@@ -6,7 +6,3 @@
 - Eva Chant
 - Cam Miller
 
-```
-print('hello world!')
-
-```
