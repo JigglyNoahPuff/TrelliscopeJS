@@ -24,3 +24,4 @@
 
 
 ## If we had more time/money/energy what we would do?
+<iframe src="https://giphy.com/embed/9lMoyThpKynde" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/adventure-time-math-finn-the-human-9lMoyThpKynde">via GIPHY</a></p>
