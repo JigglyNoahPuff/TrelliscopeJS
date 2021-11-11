@@ -1,2 +1,7 @@
 # TrelliscopeJS
-My and Chris Trivinos personal work with Trelliscope and its implementations
+## Fall 2021 BYUI Data Science Society Project
+### DSS Team Members:
+- Chris Trivino
+- Noah Cook
+- Eva Chant
+- Cam Miller
