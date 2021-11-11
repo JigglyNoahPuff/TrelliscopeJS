@@ -1,5 +1,4 @@
-# TrelliscopeJS
-## Fall 2021 BYUI Data Science Society Project
+# Fall 2021 BYUI Data Science Society TrelliscopeJS Project
 ### DSS Team Members:
 - Chris Trivino
 - Noah Cook
@@ -8,6 +7,8 @@
 
 ## Introduction:
 ### Who We and DSS Are
+### The Use Case We came up with
+### Eventually... the use cases out team members did
 
 ### How much we get paid
 *Not enough*
@@ -20,3 +21,6 @@
 ### Maybe Explain the Examples from him that gave us inspiration &trade;
 ### Street View
 ### Cats Dogs
+
+
+## If we had more time/money/energy what we would do?
