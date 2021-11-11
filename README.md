@@ -5,8 +5,3 @@
 - Noah Cook
 - Eva Chant
 - Cam Miller
-
-
-```math
-SE = \frac{\sigma}{\sqrt{n}}
-```
