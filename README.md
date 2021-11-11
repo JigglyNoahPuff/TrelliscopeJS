@@ -14,10 +14,12 @@
 *Not enough*
 
 ## File Preparation
+**Not only what was done, but why it was done?**
 ### Python Notebook Explanation
 ### CSVs and Data/Images used
 
 ## Actual R/TrelliscopeJS Stuff
+**Not only what was done, but why it was done?**
 ### Maybe Explain the Examples from him that gave us inspiration &trade;
 ### Street View
 ### Cats Dogs
@@ -29,3 +31,9 @@
 
 https://user-images.githubusercontent.com/38081350/141221264-a4951b22-8a65-4e3f-9531-2efd841f86d2.mp4
 
+
+
+## Video Tutorial/Links
+### Guided Walkthrough of Code
+**Not only what was done, but why it was done?**
+### Example Use Case Video
