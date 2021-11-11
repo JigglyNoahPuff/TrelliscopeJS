@@ -5,3 +5,4 @@
 - Noah Cook
 - Eva Chant
 - Cam Miller
+$`\sqrt{2}`$
