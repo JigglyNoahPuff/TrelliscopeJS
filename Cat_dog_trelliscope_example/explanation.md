@@ -1,1 +1,3 @@
-hello
+This cat/dog example is a small example of how to correct mislabeled images. In this example there is a mislabeled image in the dog image folders. In the dog folder there is an image of a cat that should be a cat. To start we will use the ipynb file to help create a dataframe from our image folders with the file paths and labels that are given to the images, then we can correct the mislabeled image in the R-script and simultaneously create seperate folders for each label class("cat","dog") that can then can be used for machine learning. 
+
+Note: This is a small example which could easily be fixed by dragging and clicking. The purpose of this project is to show how trellliscope can be useful in helping to label images or relabel images when he have folders that contain many images. The steps applied in the ipynb and R-Script in this example would be exactly what we would do if we had larger folders filled with images.  
