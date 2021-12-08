@@ -38,7 +38,7 @@ One very short and simple example can be used with
 ### Maybe Explain the Examples from him that gave us inspiration &trade;
 ### Street View
 ### Cats Dogs
-This is a very short example of how to use Trelliscope for labeling cat and dog images. In this short and brief example there is an file that contains images of cats and dogs. In the dog file there is a picture of a cat(mislabeling). The tutorial shows how to use trelliscope to correctly label the image and move it to the appropriate folder. 
+This is a very short example of how to use Trelliscope for labeling cat and dog images. In this short and brief example there is an file that contains images of cats and dogs. In the dog file there is a picture of a cat(mislabeling). The tutorial shows how to use trelliscope to correctly label the image and move it to the appropriate folder. (Note: there is an md file in the cat/dog example which explains the process in greater detail.)
 
 ## If we had more time/money/energy what we would do?
 
