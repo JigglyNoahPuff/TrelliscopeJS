@@ -1,4 +1,4 @@
-# Fall 2021 BYUI Data Science Society TrelliscopeJS Project
+# Fall 2021 BYUI Data Science Society TrelliscopeJS Image Labeler Project
 ### DSS Team Members:
 - Chris Trivino
 - Noah Cook
